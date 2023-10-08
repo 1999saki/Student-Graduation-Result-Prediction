@@ -15,7 +15,6 @@ The "Student Graduation Result Prediction" project aims to develop a machine lea
 6. **Modeling**: An explanation of the machine learning models used, how they are trained, and the evaluation metrics employed.
 7. **Deployment**: Information on deploying the trained model for real-world predictions.
 8. **Contributing**: Guidelines for contributing to the project, reporting issues, suggesting enhancements, or adding new features.
-9. **License**: Details regarding the project's licensing.
 
 ## Installation
 
